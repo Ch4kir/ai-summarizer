@@ -1,0 +1,1 @@
+This project aims to leverage the power of OpenAI's GPT-4 to create an advanced AI Article Summarizer. This tool is designed to take lengthy articles and condense them into concise summaries while preserving the essential information and context.
